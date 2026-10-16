@@ -1,0 +1,2 @@
+ALTER TABLE plat
+ALTER COLUMN id_categorie SET NOT NULL;
